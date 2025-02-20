@@ -38,7 +38,7 @@ if a user is not allowed to see a certain section it would be clear that it's fo
 
 ![Employees Page](/screenshots/216.png)
 
-![Employees Page](217.png)
+![Employees Page](/screenshots/217.png)
 
 
 
