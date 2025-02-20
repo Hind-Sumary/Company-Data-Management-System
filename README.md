@@ -16,27 +16,27 @@ This project was developed as part of a team for a database course in January 20
 
 if a user is not allowed to see a certain section it would be clear that it's for admins only
 
-![Main Page](211.png)
+![Main Page](/screenshots/211.png)
 
 
 ### Orders Page
 
-![Orders Page](218.png)
+![Orders Page](/screenshots/218.png)
 
-![Orders Page](219.png)
+![Orders Page](/screenshots/219.png)
 
 
 ### Employees Page
 
-![Employees Page](212.png)
+![Employees Page](/screenshots/212.png)
 
-![Employees Page](213.png)
+![Employees Page](/screenshots/213.png)
 
-![Employees Page](214.png)
+![Employees Page](/screenshots/214.png)
 
-![Employees Page](215.png)
+![Employees Page](/screenshots/215.png)
 
-![Employees Page](216.png)
+![Employees Page](/screenshots/216.png)
 
 ![Employees Page](217.png)
 
